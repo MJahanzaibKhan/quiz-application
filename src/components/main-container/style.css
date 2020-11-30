@@ -1,0 +1,16 @@
+.App{
+  max-width: 600px;
+  margin: 0px auto;
+  padding: 0px 10px;
+}
+.score{
+  display: flex;
+  justify-content: space-between;
+}
+.multi-bar{
+  margin-top: 50px;
+}
+.multi-statusbar{
+  border: 1px solid black;
+  border-radius: 5px;
+}

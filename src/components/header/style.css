@@ -1,0 +1,16 @@
+.widget-svg{
+  width: 15px !important;
+  height: 15px !important;
+}
+.star-container{
+  padding: 0px !important;
+}
+.category-title{
+  margin: 0px;
+  color: gray;
+}
+.heading{
+  margin: 30px 0 0 0;
+  color: #494949;
+  font-size: 40px;
+}
